@@ -1,3 +1,6 @@
+
+.. image:: https://www.travis-ci.com/AbinashBishoyi/easy_parser.svg?branch=master
+    :target: https://www.travis-ci.com/AbinashBishoyi/easy_parser
 ===========
 easy_parser
 ===========
