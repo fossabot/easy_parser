@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAbinashBishoyi%2Feasy_parser.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAbinashBishoyi%2Feasy_parser?ref=badge_shield)
+
 
 .. image:: https://www.travis-ci.com/AbinashBishoyi/easy_parser.svg?branch=master
     :target: https://www.travis-ci.com/AbinashBishoyi/easy_parser
@@ -40,3 +42,7 @@ Note
 
 This project has been set up using PyScaffold 4.0.1. For details and usage
 information on PyScaffold see https://pyscaffold.org/.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAbinashBishoyi%2Feasy_parser.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAbinashBishoyi%2Feasy_parser?ref=badge_large)
